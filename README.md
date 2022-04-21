@@ -1,5 +1,8 @@
-# RedTeamNotes
-这个项目称为红队笔记，主要目的是为了记录笔者日常做红队项目的时候遇到的各种小问题以及解决方案。
+<div align=center><img src=https://user-images.githubusercontent.com/33535846/164413361-ffb5d78a-91e9-402c-979e-43d32cf91063.png width="400" height="300"/></div>
+
+#
+
+本项目主要为了记录笔者日常做红队项目的时候遇到的各种小问题以及解决方案。
 
 这些小问题具有以下特征
 
